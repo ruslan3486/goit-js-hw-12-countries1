@@ -1,7 +1,7 @@
 {
   "name": "parcel-project-template",
   "version": "1.1.0",
-  "description": "",
+  "description": "goit-js-hw-12-countries1",
   "main": "index.js",
   "homepage": "https://ruslan3486.github.io/goit-js-hw-12-countries1/",
   "scripts": {
